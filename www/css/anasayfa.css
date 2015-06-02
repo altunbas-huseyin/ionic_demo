@@ -1,0 +1,46 @@
+
+
+.slider {
+    width: 100%;
+}
+
+.slider img {
+    width: 100%;
+}
+.slider-slide {
+
+}
+
+
+
+.anasayfa_list table tr .td_awesome
+{
+    padding-top: 9px;
+    width: 70px;
+    text-align: left;
+
+}
+
+.anasayfa_awesome
+{
+    font-family: "fontawesome";
+    font-size: 55px;
+    color: #086fb4;
+    text-align: left;
+}
+
+.makas_icon:before {
+    content: "\f0c4";
+}
+
+.kilit_icon:before {
+    content: "\f023";
+    font-size: 60px;
+    margin-left: 6px;
+    margin-top: 2px;
+    position: absolute;
+}
+
+.sepet_icon:before {
+    content: "\f07a";
+}
